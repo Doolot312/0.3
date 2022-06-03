@@ -1,0 +1,16 @@
+table {
+    width: 800px;
+    height: 500px;
+    border: 1px solid;
+    border-collapse: collapse;
+
+    margin: auto;
+}
+
+tr,td {
+    border: 3px solid;
+}
+
+th {
+    height: 350px;
+}
